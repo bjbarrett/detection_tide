@@ -1,0 +1,4 @@
+# tooltides
+Data and code for "Coupling of Coastal Activity with Tidal Cycles is Stronger in Tool-using Capuchins (<i>Cebus capucinus imitator</i>)" by Zoë Goldsborough, Margaret Crofoot, Shauhin Alavi, Evelyn Del Rosario-Vargas, Sylvia Garza, Kate Tiedeman, and Brendan Barrett (2023). [![DOI](https://zenodo.org/badge/580798951.svg)](https://zenodo.org/badge/latestdoi/580798951)
+
+This repository contains the R script ("tooltides.R") and session info from R ("SessionInfo_R.txt") required to run the main analyses reported in the manuscript, and our dataset ("tooltides.csv"), consisting of cleaned annotations of camera trap data, which have been aggregated to the sequence-level. Two additional scripts, one R script ("dist2coast.R") and one Google Earth Engine script ("distcoast_ee.txt") show how we calculated the distance to the coastal vegetation line for each camera trap. 
